@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Our Menu</string>
+    <string name="home_text">ホーム</string>
+    <string name="noodle_text">麺類</string>
+    <string name="bifun_text">ビーフン</string>
+    <string name="carbonara_text">カルボナーラ</string>
+    <string name="neapolitan_text">ナポリタン</string>
+    <string name="yakisoba_text">焼きそば</string>
+    <string name="ramen_text">醤油ラーメン</string>
+    <string name="nyumen_text">にゅうめん</string>
+    <string name="flour_text">粉もん</string>
+    <string name="okonomiyaki_text">お好み焼き</string>
+    <string name="etc_text">その他</string>
+    <string name="sandwich_text">サンドウィッチ</string>
+    <string name="saucekatsudon_text">ソースカツどん</string>
+    <string name="moyashiitame_text">もやし炒め</string>
+    <string name="mail_text">メールする</string>
+    <string name="sms_text">SMSする</string>
+</resources>
